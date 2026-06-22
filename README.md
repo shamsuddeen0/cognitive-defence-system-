@@ -1,4 +1,4 @@
-# Project: Cognitive Defense - AI-Driven Anti-Jamming & Multimodal Vision
+# Project: Cognitive Defense - AI-Driven Anti-Jamming & Multimodal Vision (cognitive-defence-system-)
 
 ## Objective
 Develop a high-fidelity simulation of a Cognitive Radio using Deep Reinforcement Learning (DRL) to evade advanced jammers, and a Multimodal Consensus system to detect AI vision spoofing.
